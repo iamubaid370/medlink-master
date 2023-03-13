@@ -69,6 +69,14 @@ flutter:
    - assets/images/selected_home.png
    - assets/images/org_selected.png
    - assets/images/org_unselected.png
+   - assets/images/edit.png
+   - assets/images/email.png
+   - assets/images/hospital.png
+   - assets/images/location.png
+   - assets/images/unemployment.png
+   - assets/images/dot.png
+   - assets/images/plus.png
+   - assets/images/arrow.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

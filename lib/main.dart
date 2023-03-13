@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:medlink/screens/userprofile_scrn.dart';
 import '../screens/nurseReg_scrn.dart';
 import '../screens/usertype_scrn.dart';
 import '../screens/proftype_scrn.dart';
@@ -9,6 +10,8 @@ import '../screens/home_scrn.dart';
 import '../widgets/navbar.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hexcolor/hexcolor.dart';
+import '../screens/userprofile_scrn.dart';
+
 
 void main() {
   runApp(const MyApp());
